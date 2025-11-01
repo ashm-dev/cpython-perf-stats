@@ -28,6 +28,7 @@ results/
 ## Results
 
 * [2025-W42](results/2025/W42/table.md)
+* [2025-W43](results/2025/W43/table.md)
 
 ## Benchmark Environment
 
